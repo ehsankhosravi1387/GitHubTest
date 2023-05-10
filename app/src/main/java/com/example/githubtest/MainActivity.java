@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     TextView textView2;
     TextView textView3;
+    TextView textView4;
 
 
     @Override
